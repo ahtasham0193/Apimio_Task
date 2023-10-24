@@ -94,6 +94,13 @@
             border: 4px solid rgb(13, 13, 157) !important;
         }
 
+        #dashboard{
+            max-width: 1200px;
+            height: auto;
+            margin: 0 auto;
+            width: 100%;
+        }
+
         .links
         {
             width: 100%;
