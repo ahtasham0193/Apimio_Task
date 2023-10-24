@@ -2,7 +2,7 @@
 
 This readme file provides an overview of the web project, Apimio_Task, which is currently live on Vercel. The project includes a user interface with various elements, such as buttons, a video player, and links. It also features functionality for tracking user interactions and displaying the interactions in a dashboard. You can access the live project on Vercel using this Url:https://apimio-task.vercel.app/
 
-# several approaches and functionalities are implemented to interact with elements on the web page and track user interactions. Here's a description of the key approaches and actions performed within the script:
+several approaches and functionalities are implemented to interact with elements on the web page and track user interactions. Here's a description of the key approaches and actions performed within the script:
 
 Initialize an Array (arr): An array named arr is created to store information about selected elements.
 
